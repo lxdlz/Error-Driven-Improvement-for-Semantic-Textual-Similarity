@@ -1,10 +1,12 @@
 # Error-Driven-Improvement-for-Semantic-Textual-Similarity
+
+## 【1.OVERVIEW】
 This project investigates how to improve Semantic Textual Similarity (STS) models through an error-driven framework. Rather than relying solely on aggregate evaluation metrics, we focus on identifying and addressing model weaknesses on specific linguistic phenomena.
 Conducted on the mteb/sts12-sts dataset using a Sentence-BERT model.
 
 ---
 
-***【2.OBJECTIVES】
+## 【2.OBJECTIVES】
 
 * Improve performance on challenging linguistic phenomena
 * Enhance robustness in handling negation and numerical reasoning
@@ -106,7 +108,7 @@ Key observations:
 
 ---
 
-***【6.INTERPRETABILITY ANALYSIS】
+## 【6.INTERPRETABILITY ANALYSIS】
 
 We analyze model behavior using:
 
@@ -124,7 +126,7 @@ This analysis helps move beyond performance metrics toward understanding model d
 
 ---
 
-***【7.KEY CONSTRUCTURE】
+## 【7.KEY CONSTRUCTURE】
 
 1. A slice-based evaluation framework for STS
 2. An error-driven improvement pipeline
@@ -133,7 +135,7 @@ This analysis helps move beyond performance metrics toward understanding model d
 
 ---
 
-***【8.PROJRECT STRUCTURE】
+## 【8.PROJRECT STRUCTURE】
 
 ```
 .
