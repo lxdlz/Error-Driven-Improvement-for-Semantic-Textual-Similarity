@@ -1,0 +1,7 @@
+sentence-transformers
+datasets
+scipy
+scikit-learn
+numpy
+matplotlib
+seaborn

@@ -1,0 +1,9 @@
+#normal 
+"A man is playing a guitar."
+"A person is performing with a guitar."
+
+
+#semantic gap/error case
+"place a microwaved tomato inside of the fridge"
+"Put cabbage in the refrigerator, use the knife to cut the cabbage"
+SBERT=0.282 | PSC=0.731
