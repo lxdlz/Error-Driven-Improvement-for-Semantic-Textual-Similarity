@@ -149,7 +149,7 @@ This analysis helps move beyond performance metrics toward understanding model d
 
 ---
 
-***【9.FUTURE WORK】
+## 【9.FUTURE WORK】
 
 * Finer-grained numerical subtypes (e.g., magnitude, units, comparisons)
 * Additional interpretability methods (e.g., LIME, attention visualization)
@@ -158,6 +158,6 @@ This analysis helps move beyond performance metrics toward understanding model d
 
 ---
 
-***【10.SUMMARY】
+## 【10.SUMMARY】
 
 This project demonstrates that targeted, error-driven improvements can significantly enhance model robustness on challenging semantic phenomena without sacrificing overall performance.
